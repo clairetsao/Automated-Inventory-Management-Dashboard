@@ -1,4 +1,7 @@
 # Automated-Inventory-Management-Dashboard
+
+[Inventory Management Dashboard](https://public.tableau.com/views/Automatedinventorymanagement/InventorySummary?:language=zh-TW&:sid=&:display_count=n&:origin=viz_share_link)
+
 ## Overview
 This project aims to create an automated inventory management dashboard that enables warehouse managers and procurement teams to track the latest stock levels, preventing stockouts and overstocking. The dashboard provides insights through various analyses and visualizations to support data-driven decision-making.
 
